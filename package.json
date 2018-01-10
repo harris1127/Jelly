@@ -1,0 +1,14 @@
+{
+    "name": "jelly",
+    "version": "1.0.0",
+    "description": "Its Lit (Cook Season)",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Ryan",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^1.7.10"
+    }
+}
